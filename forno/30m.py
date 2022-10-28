@@ -1,0 +1,1 @@
+print("dez segundos")
